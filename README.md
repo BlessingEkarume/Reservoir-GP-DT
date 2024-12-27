@@ -1,7 +1,7 @@
 
 ## Reservoir-GP-DT
 <div align="center">
-  <img src="./UQ_with_GAN4.png" alt="BO Iterations GIF" style="width: 100%;">
+  <img src="./optim_oil_prod_GP.png" alt="BO Iterations GIF" style="width: 100%;">
 </div>
 
 
