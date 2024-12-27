@@ -22,7 +22,7 @@ We demonstrated the use of GP to model simple reservoir behaviors, specifically
 for the reservoir pressure behaviors and the oil production rate. We also demonstrate
 a simple implementation of GP via spectral sampling.
 For more details, you can check out our notebook here:
-[Reservoir-GP-DT](./UQPINNs_EX2_BC.ipynb) and [Simple-GP-Model](./UQPINNs_EX2_E.ipynb).
+[Reservoir-GP-DT](./Blessing_Ekarume_Thesis_Latest.ipynb) and [Simple-GP-Model](./My_GP_Demo_Model.ipynb).
 
 
 ### Citations
